@@ -37,7 +37,7 @@ O pipeline segue a estrutura clássica de ETL:
  ┣ 📜 requirements.txt               # Dependências do projeto
  ┗ 📜 README.md
 
- ## 🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 **1. Clone o repositório:**
 
