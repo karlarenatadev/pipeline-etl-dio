@@ -36,15 +36,17 @@ O pipeline segue a estrutura clássica de ETL:
  ┣ 📜 bank.db                        # Banco de dados SQLite gerado
  ┣ 📜 requirements.txt               # Dependências do projeto
  ┗ 📜 README.md
+``` 
 
 ## 🚀 Como Executar o Projeto
 
 **1. Clone o repositório:**
 
 ```bash
-git clone [https://github.com/karlarenatadev/pipeline-etl-dio.git](https://github.com/karlarenatadev/pipeline-etl-dio.git)
+git clone https://github.com/karlarenatadev/pipeline-etl-dio.git
 cd pipeline-etl-dio
 ```
+
 **2. Instale as dependências:**
 ```bash
 pip install -r requirements.txt
